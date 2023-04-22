@@ -1,0 +1,20 @@
+Customer
+
+1. Should be able to select city
+2. SHould be able to see all Movies in that city
+3. Upon selection of Movie and particular date , should be able to see all shows of that movie
+4. Upon selection of show , Should be able to select type of seat and seats
+5. Make payment and book
+6. Should be able to view his ticket details
+
+BookMyShow system
+
+1. Add/update city 
+2. Add/update movie into city
+3. Add/update theatre into city
+4. Add/update show
+5. Show vacant seats of a theatre , handle concurrency of seat booking
+6. Generate ticket id 
+7. Send notifications via mail , messages about ticket and show
+
+
